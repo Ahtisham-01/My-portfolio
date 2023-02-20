@@ -41,7 +41,7 @@ export default function FavouriteProjects() {
           >
             <div className="relative overflow-hidden">
               <img
-                src="/p1.jpg"
+                src="/p1.png"
                 alt="portfolio"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
