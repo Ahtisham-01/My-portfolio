@@ -18,9 +18,9 @@ const userData = {
       imgUrl: "/p1.png",
     },
     {
-      title: "3JS",
+      title: "Portfolio",
       link: "#",
-      imgUrl: "/portfolio.png",
+      imgUrl: "/port.png",
     },
     // {
     //   title: "CovidRescue",
